@@ -1,0 +1,29 @@
+{
+  "name": "@melitele/tracer",
+  "version": "0.0.0",
+  "description": "Set of utilities to process tracks (series of geo points).",
+  "author": {
+    "name": "Natalia Kowalczyk",
+    "email": "melitele@furkot.com",
+    "url": "https://melitele.me"
+  },
+  "repository": "melitele/tracer",
+  "license": "MIT",
+  "keywords": [
+    "tracer",
+    "tracks"
+  ],
+  "dependencies": {
+    "geodesy": "^1.1.3"
+  },
+  "devDependencies": {
+    "@pirxpilot/jshint": "~3"
+  },
+  "scripts": {
+    "test": "make check"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
