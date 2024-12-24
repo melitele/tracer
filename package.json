@@ -1,6 +1,6 @@
 {
   "name": "@melitele/tracer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Set of utilities to process tracks (series of geo points).",
   "author": {
     "name": "Natalia Kowalczyk",
